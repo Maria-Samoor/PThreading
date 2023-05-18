@@ -12,10 +12,6 @@ def calculate_sum(start, end):
         sum += X[i]
     return sum
 
-
-print("Name:Maria Abu Samoor")
-print("ID Number:201172\n")
-
 # Part 1
 start_time = time.time()
 total_sum = calculate_sum(0, len(X))
