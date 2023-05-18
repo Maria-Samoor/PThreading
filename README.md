@@ -1,3 +1,5 @@
+
+## Project Description 
 Write a pthread program using  c/c++ or java code to calculate the sum of an arrays X of 1 million random numbers (between 1-100). Design  your program to have the following output:
 
 
